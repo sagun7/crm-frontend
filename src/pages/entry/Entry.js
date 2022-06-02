@@ -4,7 +4,7 @@ import './entry.css';
 
 export const Entry = () => {  
   return (
-    <div className='entry-page bg-info '>
+    <div className='entry-page bg-info  '>
        sagun  
     </div>
   )
